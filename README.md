@@ -1,6 +1,14 @@
-# PRODIGY_WD_01
-
+![20240112_000837(166)](https://github.com/14-sahil/PRODIGY_WD_01/assets/126070964/f08fe658-9c51-48f7-a8f0-21bdc9164ab1)# PRODIGY_WD_01
+# Home Page:
 ![Screenshot (19)](https://github.com/bk408/PRODIGY_WD_01/assets/116827830/09587b7e-310d-4025-859a-48668fde5607)
+# Shop:
+![20240112_000816(869)](https://github.com/14-sahil/PRODIGY_WD_01/assets/126070964/9ad3ff1a-636e-49db-b37b-57b7e3e5fa47)
+# Delivery:
+![20240112_000828(454)](https://github.com/14-sahil/PRODIGY_WD_01/assets/126070964/d8083fdc-b40f-4379-8985-b61fc8bde46a)
+# App:
+![20240112_000837(166)](https://github.com/14-sahil/PRODIGY_WD_01/assets/126070964/8002faa7-6880-428b-b4df-2223b573d0ec)
+# About & Contact:
+![20240112_000844(620)](https://github.com/14-sahil/PRODIGY_WD_01/assets/126070964/1475d982-5307-43f3-8849-54d0a7d65fad)
 
 # Key Features:
 

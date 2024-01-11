@@ -1,4 +1,4 @@
-![20240112_000837(166)](https://github.com/14-sahil/PRODIGY_WD_01/assets/126070964/f08fe658-9c51-48f7-a8f0-21bdc9164ab1)# PRODIGY_WD_01
+
 # Home Page:
 ![Screenshot (19)](https://github.com/bk408/PRODIGY_WD_01/assets/116827830/09587b7e-310d-4025-859a-48668fde5607)
 # Shop:

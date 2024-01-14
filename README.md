@@ -12,7 +12,8 @@
 
 # Key Features:
 
-🔥 Responsive Design:  <br> 
+🔥 Responsive Design:Our landing page adapts seamlessly to various screen sizes, ensuring accessibility for all users, whether on desktop, tablet, or mobile.
+<br> 
 🔥 Stunning Visuals: We've incorporated eye-catching visuals that capture the essence of Starbucks' brand, creating an inviting and visually appealing atmosphere.<br> 
 🔥 User-Friendly Navigation: The navigation menu is intuitive and user-friendly, allowing visitors to explore different sections of the page effortlessly.<br> 
 🔥 Interactive Elements: Engage with our interactive elements that provide an immersive experience, such as hovering effects and clickable features.<br> 

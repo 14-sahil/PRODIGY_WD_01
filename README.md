@@ -11,7 +11,6 @@
 ![20240112_000844(620)](https://github.com/14-sahil/PRODIGY_WD_01/assets/126070964/1475d982-5307-43f3-8849-54d0a7d65fad)
 
 # Key Features:
-
 🔥 Responsive Design:Our landing page adapts seamlessly to various screen sizes, ensuring accessibility for all users, whether on desktop, tablet, or mobile.
 <br> 
 🔥 Stunning Visuals: We've incorporated eye-catching visuals that capture the essence of Starbucks' brand, creating an inviting and visually appealing atmosphere.<br> 
